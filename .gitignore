@@ -1,0 +1,19 @@
+# object files
+*.o 
+*.obj
+
+# libraries
+*.a
+*.lib
+
+# shared objects
+*.so
+*.dll
+
+# executables
+a.out
+*.exe
+
+# temp files
+*.swp
+*~
